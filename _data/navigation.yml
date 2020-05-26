@@ -1,0 +1,38 @@
+# main links links
+main:
+ # - title: "Publications"
+ #   url: /publications/
+    
+  - title: "Research"
+    url: /#research
+  - title: "Experience"
+    url: /#experience  
+  - title: "Publications"
+    url: /#publications
+  - title: "Services"
+    url: /#services    
+  - title: "Awards"
+    url: /#awards   
+  - title: "CV"
+    url: /files/cv.pdf 
+
+ # - title: "Talks"
+ #   url: /talks/    
+
+ # - title: "Teaching"
+ #   url: /teaching/    
+    
+ # - title: "Portfolio"
+ #   url: /portfolio/
+        
+ # - title: "Blog Posts"
+ #   url: /year-archive/
+ 
+ #   - title: "Blog"
+ #   url: /blog
+    
+ # - title: "CV"
+ #   url: /cv/
+    
+ # - title: "Guide"
+ #   url: /markdown/
