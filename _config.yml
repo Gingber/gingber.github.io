@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bo Jiang"
 title_separator          : "-"
 name                     : &name "Bo Jiang"
-description              : &description "Assistant Professor \n\ Institute of Information Engineering, Chinese Academy of Sciences"
+description              : &description ""
 url                      : https://Gingber.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"  http://127.0.0.1:4000
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Gingber/Gingber.github.io"

@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor of the Institute of Information Engineering, Chinese Academy of Sciences. I obtained my Ph.D. Degrees in University of Chinese Academy of Sciences in 2016. My research interests include artificial intelligence, data mining, social networks, machine learning and knowledge graph, with an emphasis on designing new algorithms for mining social and knowledge networks.
+I am an Associate Professor of the Institute of Information Engineering, Chinese Academy of Sciences. I obtained my Ph.D. Degrees in University of Chinese Academy of Sciences in 2016. My research interests include social network mining, computational behavior modeling, recommender system, data mining, machine learning and knowledge graph, with an emphasis on designing new algorithms for behavior prediction, recommendation, fraud detection, event detection and security making. For more detailed personal information, please refer to my CV.
 
 I am looking for highly-motivated students to work with me on the exciting area of social network, data mining, machine learning and network security. If you want me to write a recommendation letter for you, please first read this.
 
@@ -20,12 +20,13 @@ I am looking for highly-motivated students to work with me on the exciting area 
 * 02/2020: One paper is accepted by Computer Network.
 
 <h2 id="research">Research</h2>
-* Social Network Analysis and Mining
+* Social Network Mining
+* Computational Behavior Modeling
 * Recommender System
-* Knowledge Graph and Representation Learning
-* User Behavior Modeling
+* Network Representation Learning
+* Intelligence Knowledge Graph
 * Natural Language Processing
-* Machine Learning and Artificial Intelligence
+* Data Mining and Machine Learning
 * Network Security Analysis
 
 
