@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Bo Jiang"
 title_separator          : "-"
 name                     : &name "Bo Jiang"
-description              : &description "personal description"
-url                      : https://Gingber.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" https://academicpages.github.io
+description              : &description "Assistant Professor \n\ Institute of Information Engineering, Chinese Academy of Sciences"
+url                      : https://Gingber.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"  http://127.0.0.1:4000
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Gingber/Gingber.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -85,10 +85,10 @@ author:
   bio              : "an assistant professor at Institute of Information Engineering, Chinese Academy of Sciences"
   location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=Pp0ON9kAAAAJ&hl=zh-CN"
+  email            : "jiangbo@iie.ac.cn"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Gingber"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/000-0002-7185-990X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :

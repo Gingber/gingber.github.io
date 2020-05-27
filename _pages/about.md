@@ -11,13 +11,13 @@ redirect_from:
 
 I am an Associate Professor of the Institute of Information Engineering, Chinese Academy of Sciences. I obtained my Ph.D. Degrees in University of Chinese Academy of Sciences in 2016. My research interests include artificial intelligence, data mining, social networks, machine learning and knowledge graph, with an emphasis on designing new algorithms for mining social and knowledge networks.
 
-I am looking for highly-motivated students to work with me on the exciting area of social network, data mining, and machine learning. If you want me to write a recommendation letter for you, please first read this.
+I am looking for highly-motivated students to work with me on the exciting area of social network, data mining, machine learning and network security. If you want me to write a recommendation letter for you, please first read this.
 
 
 <h2 id="news">Recent News</h2>
 
-* 04/2020: Simplify the Usage of Lexicon in Chinese NER is accepted by ICCS 2020.
-* 02/2020: Simplify the Usage of Lexicon in Chinese NER is accepted by ICCS 2020.
+* 04/2020: Two papers is accepted by ICCS 2020.
+* 02/2020: One paper is accepted by Computer Network.
 
 <h2 id="research">Research</h2>
 * Social Network Analysis and Mining
