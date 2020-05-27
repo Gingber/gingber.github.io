@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Bo Jiang"
   avatar           : "profile.png"
-  bio              : "an assistant professor at Institute of Information Engineering, Chinese Academy of Sciences"
+  bio              : "an assistant professor at Institute of Information Engineering, CAS"
   location         : "Beijing, China"
-  employer         :
+  employer         : # ""
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Pp0ON9kAAAAJ&hl=zh-CN"
   email            : "jiangbo@iie.ac.cn"
