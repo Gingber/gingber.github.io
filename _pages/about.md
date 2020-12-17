@@ -40,7 +40,7 @@ I am looking for highly-motivated students to work with me on the exciting area 
 * Cong Dong, Chen Zhang, Zhigang Lu, Baoxu Liu, **Bo Jiang**. CETAnalytics: Comprehensive Effective Traffic Information Analytics for Encrypted Traffic Classification. Computer Networks, 2020(176):107258.
 * Shijie Jian, Zhigang Lu, Dan Du, **Bo Jiang**, Baoxu Liu. Overview of Network Intrusion Detection Technology. Journal of Cyber Security, 2020,5(4):96-122. (in Chinese)
 * Shijie Jian, Zhigang Lu, **Bo Jiang**, Dan Du, Baoxu Liu. Flow Anomaly Detection Based on Hierarchical Clustering Method. Journal of Information Security Research, 2020,6(6):474-481. (in Chinese)
-* **Bo Jiang*, Zhigang Lu, Yuling Liu, Ning Li, Zelin Cui. Social Recommendation in Heterogeneous Evolving Relation Network. The 2020 International Conference on Computational Science (ICCS 2020), Amsterdam, The Netherlands, June 3-5, 2020:554-567.
+* **Bo Jiang**, Zhigang Lu, Yuling Liu, Ning Li, Zelin Cui. Social Recommendation in Heterogeneous Evolving Relation Network. The 2020 International Conference on Computational Science (ICCS 2020), Amsterdam, The Netherlands, June 3-5, 2020:554-567.
 * Qing Wang, Linyu Li, **Bo Jiang**, Zhigang Lu, Junrong Liu, Shijie Jian. Malicious Domain Detection Based on K-means and SMOTE. The 2020 International Conference on Computational Science (ICCS 2020), Amsterdam, The Netherlands, June 3-5, 2020:468-481.
 * Feng Yi, **Bo Jiang**, Jianjun Wu, Lu Wang. Cybersecurity Named Entity Recognition using Multi-modal Ensemble Learning. IEEE Access, 2020(8):63214-63224.
 * Feng Yi, **Bo Jiang**, Jianjun Wu. Heterogeneous Information Network Embedding for Mention Recommendation. IEEE Access, 2020(8):91394-91404.
