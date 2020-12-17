@@ -16,6 +16,8 @@ I am looking for highly-motivated students to work with me on the exciting area 
 
 <h2 id="news">Recent News</h2>
 
+* 12/2020: Two papers is accepted by Trustcom 2020.
+* 09/2020: One paper is accepted by NPC 2020.
 * 04/2020: Two papers is accepted by ICCS 2020.
 * 02/2020: One paper is accepted by Computer Network.
 
@@ -32,15 +34,17 @@ I am looking for highly-motivated students to work with me on the exciting area 
 
 <h2 id="publications">Publications</h2>
 
-* Cong Dong, Chen Zhang, Zhigang Lu, Baoxu Liu, **Bo Jiang**. CETAnalytics: Comprehensive Effective Traffic Information Analytics for Encrypted Traffic Classification. Computer Networks, 2020.
-* **Bo Jiang**, Zhigang Lu, Yuling Liu, Ning Li and Zelin Cui. Social Recommendation in Dynamic Evolving Relation Network. In Proceedings of the 2020 International Conference on Computational Science (ICCS 2020), Amsterdam, The Netherlands, June 3-5, 2020.
-* Qing Wang, Linyu Li, **Bo Jiang**, Zhigang Lu, Junrong Liu and Shijie Jian. Malicious Domain Detection Based on K-means and SMOTE. In Proceedings of the 2020 International Conference on Computational Science (ICCS 2020), Amsterdam, The Netherlands, June 3-5, 2020.
-* Shijie Jian, Zhigang Lu, Dan Du, **Bo Jiang**, Baoxu Liu. Overview of Network Intrusion Detection Technology. Journal of Cyber Security, 2020. (in Chinese)
-* Cong Dong, Zhigang Lu, Baoxu Liu, **Bo Jiang**, Ning Li, Pingchuan Ma, Zhengwei Jiang, Junrong Liu. Knowledge Graph for Cyberspace Security Intelligence：A Survey. Journal of Cyber Security, 2020. (in Chinese)
-* Yue Ling, Yuling Liu, **Bo Jiang**, Ning Li, Zhigang Lu, Baoxu Liu. Intrusion Detection Method based on Double-Layer Heterogeneous Ensemble Learner. Journal of Cyber Security, 2020. (in Chinese)
-* Feng Yi, **Bo Jiang**, Jianjun Wu, Lu Wang. Cybersecurity Named Entity Recognition using Multi-modal Ensemble Learning. IEEE Access, 2020.
-* Feng Yi, **Bo Jiang**, Jianjun Wu. Heterogeneous Information Network Embedding for Mention Recommendation. IEEE Access, 2020.
-* Feng Yi, **Bo Jiang**, Jianjun Wu. Topic Modeling for Short Texts via Word Embedding and Document Correlation. IEEE Access, 2020.
+* Yaopeng Han, Zhigang Lu, **Bo Jiang**, Yuling Liu, Chen Zhang, Zhengwei Jiang, Ning Li. A Multi-Task Learning Framework Based on Adversarial Training for Chinese Cybersecurity NER. The 19th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (Trustcom 2020), Guangzhou, China, December 29, 2020-January 1, 2021, 2020.
+* Yaopeng Han, Zhigang Lu, **Bo Jiang**, Yuling Liu, Chen Zhang, Zhengwei Jiang, Ning Li. A Multi-Task Learning Framework Based on Adversarial Training for Chinese Cybersecurity NER. The 17th Annual IFIP International Conference on Network and Parallel Computing (NPC 2020), Zhengzhou, China, September 28-30, 2020.
+* Cong Dong, Zhigang Lu, Baoxu Liu, **Bo Jiang**, Ning Li, Pingchuan Ma, Zhengwei Jiang, Junrong Liu. Knowledge Graph for Cyberspace Security Intelligence：A Survey. Journal of Cyber Security, 2020,5(5):56-76. (in Chinese)
+* Cong Dong, Chen Zhang, Zhigang Lu, Baoxu Liu, **Bo Jiang**. CETAnalytics: Comprehensive Effective Traffic Information Analytics for Encrypted Traffic Classification. Computer Networks, 2020(176):107258.
+* Shijie Jian, Zhigang Lu, Dan Du, **Bo Jiang**, Baoxu Liu. Overview of Network Intrusion Detection Technology. Journal of Cyber Security, 2020,5(4):96-122. (in Chinese)
+* Shijie Jian, Zhigang Lu, **Bo Jiang**, Dan Du, Baoxu Liu. Flow Anomaly Detection Based on Hierarchical Clustering Method. Journal of Information Security Research, 2020,6(6):474-481. (in Chinese)
+* **Bo Jiang*, Zhigang Lu, Yuling Liu, Ning Li, Zelin Cui. Social Recommendation in Heterogeneous Evolving Relation Network. The 2020 International Conference on Computational Science (ICCS 2020), Amsterdam, The Netherlands, June 3-5, 2020:554-567.
+* Qing Wang, Linyu Li, **Bo Jiang**, Zhigang Lu, Junrong Liu, Shijie Jian. Malicious Domain Detection Based on K-means and SMOTE. The 2020 International Conference on Computational Science (ICCS 2020), Amsterdam, The Netherlands, June 3-5, 2020:468-481.
+* Feng Yi, **Bo Jiang**, Jianjun Wu, Lu Wang. Cybersecurity Named Entity Recognition using Multi-modal Ensemble Learning. IEEE Access, 2020(8):63214-63224.
+* Feng Yi, **Bo Jiang**, Jianjun Wu. Heterogeneous Information Network Embedding for Mention Recommendation. IEEE Access, 2020(8):91394-91404.
+* Feng Yi, **Bo Jiang**, Jianjun Wu. Topic Modeling for Short Texts via Word Embedding and Document Correlation. IEEE Access, 2020(8):30692-30705.
 * Cong Dong, YuFan Chen, YunJian Zhang, **Bo Jiang**, DongXu Han, BaoXu Liu. An Approach for Scale Suspicious Network Events Detection. In Proceedings of the 2019 IEEE International Conference on Big Data (IEEE BigData 2019), Los Angeles, CA, USA, Dec 9-12, 2019.
 * Pingchuan Ma, **Bo Jiang**, Zhigang Lu, Ning Li and Zhengwei Jiang. Cybersecurity Named Entity Recognition using Bidirectional Long Short-Term Memory with Conditional Random Fields. In Proceedings of the 16th Annual IFIP International Conference on Network and Parallel Computing (NPC 2019), Hohhot, Inner Mongolia, China, Aug 23-24, 2019.
 * **Bo Jiang**, Feng Yi, Jianjun Wu, Zhigang Lu. Retweet Prediction using Context-aware Coupled Matrix-Tensor Factorization. In Proceedings of the 12th International Conference on Knowledge Science, Engineering and Management (KSEM 2019), Athens, Greece, Aug 28-30, 2019.
